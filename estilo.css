@@ -2,3 +2,9 @@ body{
     background-color: rgba(238, 151, 255, 0.904);
     color:aliceblue;
 }
+
+.cabecalho{
+    background-color: rgba(0, 217, 255, 0.253);
+    text-align: center;
+padding: 30px;
+    }
